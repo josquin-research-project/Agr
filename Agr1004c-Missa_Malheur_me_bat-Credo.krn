@@ -785,7 +785,6 @@
 !!!OMD: Et resurrexit
 !!section: Et resurrexit
 !!!OMD: Et resurrexit
-!	!	!	!LO:TX:Y=0:t=All&colon; MenCutC
 [0E	0r	0E	0r
 =140	=140	=140	=140
 0E_	0r	1.G	0r
@@ -1714,4 +1713,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2013/05/08/
 !!!ONB:	Translated from MusicXML and edited on 2013/05/08/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v100Q16
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I100v85,90,85,100c90Q16
