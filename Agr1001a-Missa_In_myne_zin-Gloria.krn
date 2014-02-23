@@ -1,7 +1,8 @@
 !!!COM:	Agricola, Alexander
 !!!CDT:	~1446-1506/08/15
 !!!OPR:	Missa In myne zin
-!!!ONM:	2
+!!!ONM:	1
+!!!ONB: First section (no Kyrie section)
 !!!OTL:	Gloria
 !!!AGN:	Mass; Gloria
 !!!SCT:	Agr1001b
@@ -1133,7 +1134,7 @@
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[b-]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
-*met(O|)	*met(O|)	*met(O|)	*met(O|)
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Qui tollis peccata mundi
 !!!OMD: Qui tollis peccata mundi
 0D	0d	0A	0f
