@@ -2,10 +2,9 @@
 !!!CDT:	~1446-1506/08/15
 !!!OTL:	Tout a par moy I
 !!!AGN:	Chanson; Rondeau
-!!!SCT:	Agr4024
-!!!SCA:	Agr4024
+!!!SCT:	Agr3051
+!!!SCA:	Agr3051
 !!!voices:	4
-!!!OMD:     Rondeau
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -17,8 +16,10 @@
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(O)	*	*met(C|)	*
+!!primary-mensuration: met(C|)
 *	*	*	*	*rscale:1/2	*	*	*
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+!	!	!	!	!LO:TX:X=-34:Z=8:t=T quotes T of Frye's song	!	!	!
 1D	Tout	0r	.	0d	Tout	1a	Tout
 1F	.	.	.	.	.	1a	a
 =2	=2	=2	=2	=2-	=2	=2	=2
@@ -393,8 +394,6 @@
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(O)	*	*met(C|)	*
-!!section: Tout a par moy
-!!!OMD: Tout a par moy
 1.D	Fai-	0r	.	0r	.	1f	Fai-
 .	.	.	.	.	.	1d	-sant
 4C	.	.	.	.	.	.	.
