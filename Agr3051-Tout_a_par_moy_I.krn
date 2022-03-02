@@ -1,10 +1,10 @@
-!!!COM:	Agricola, Alexander
-!!!CDT:	~1446-1506/08/15
-!!!OTL:	Tout a par moy I
-!!!AGN:	Chanson; Rondeau
-!!!SCT:	Agr3051
-!!!SCA:	Agr3051
-!!!voices:	4
+!!!COM: Agricola, Alexander
+!!!CDT: ~1446-1506/08/15
+!!!OTL: Tout a par moy I
+!!!AGN: Chanson; Rondeau
+!!!SCT: Agr3051
+!!!SCA: Agr3051
+!!!voices: 4
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -641,9 +641,9 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Chris Gage 04-05-2017
-!!!END:	2018/01/11/
-!!!EED:	Jesse Rodin
-!!!EEV:	2018/01/18/
-!!!ONB:	Translated from MusicXML and edited on 2018/01/18/ by Craig Sapp
+!!!ENC: Chris Gage 04-05-2017
+!!!END: 2018/01/11/
+!!!EED: Jesse Rodin
+!!!EEV: 2018/01/18/
+!!!ONB: Translated from MusicXML and edited on 2018/01/18/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v85,85,85,150z18c120l2700
